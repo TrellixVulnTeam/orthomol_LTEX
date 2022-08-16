@@ -1,0 +1,20 @@
+Daten in die BigQuery exportieren
+  >> Zugang zu Client ID 
+  
+Bei Instagram/Influencern 
+  >> Source und Medium wurden gemixt
+  >> Sehr große Anzahl an unterschiedlichen "medium" und "source"; führt dazu, dass die Daten unübersichtlich werden
+  >> Können diese ganzen Kampagnen zusammengeführt werden?
+  
+orthomol_natal kampagne 
+  >> hat an den meisten Tagen eine hohe Konversionrate bis auf 2022-03-23; Was ist hier anders?
+  >> Es wäre interessant zu prüfen ob das immer der erste Kontaktpunkt war und wir Nutzer die generell über diese Kampagne auf die Seite kommen performt haben
+  
+  
+Display Kampagnen
+  >> Es gibt mehrere Phasen über das letzte Jahr
+  >> Testen wie sich Display Kampagnen auf die Brand auswirken
+  
+  
+Was sind die Erwartungen von Axel?
+  >> Möchte er das wir auf jeden Fall eine Regression erstellen oder geht es mehr darum das wir Zusammenhänge zwischen den Kanälen herausarbeiten?
